@@ -6,7 +6,8 @@ A library book lookup system that connects to a database to show results.
 ![alt text](/BookLibrary.png "")
 
 ### car_bill_calculator
-Simple form to calculate a total bill
+Simple form to calculate a total bill.
+
 ![alt text](/car_bill_calculator.png "")
 
 ### ColourGame
@@ -18,11 +19,13 @@ Simple application to operate on 2 numbers (+-*/)
 ![alt text](/Exercise1.png "")
 
 ### HelloWorld
-Using buttons to display/hide elements of the form
+Using buttons to display/hide elements of the form.
+
 ![alt text](/HelloWorld.png "")
 
 ### LastFM
 Application to log in with Last.FM credentials, then play a radio station based on artist entered (no longer works, very old library)
+
 ![alt text](/LastFM.png "")
 
 ### LightsOut
@@ -44,6 +47,7 @@ Another PoS system for a pizza place. Calculates all orders, allows additional n
 
 ### RockPaperScissors
 Rock, Paper, Scissors
+
 ![alt text](/RockPaperScissors.png "")
 
 ### Tag.Net
@@ -52,6 +56,7 @@ A fully useable (even today) MP3 tag editor. I forgot I made this. Uses the Ultr
 
 ### TaxCalculator
 Calculates tax based on week or hours worked
+
 ![alt text](/TaxCalculator.png "")
 
 ### TempConversions (Console)
